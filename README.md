@@ -2,11 +2,11 @@
 
 ### App Description
 
-An app that allows users to enter basic information about themselves and then creates a short introduction based on that information.
+An app that allows users to enter basic information about themselves and then creates a short introduction message based on that information.
 
 ### App Walk-though
 
-<img src="![](https://i.imgur.com/a/SeAj9cX.gif)" width=200><br>
+<img src="PreworkDemo.gif" width=300><br>
 
 ### Required Features
 
