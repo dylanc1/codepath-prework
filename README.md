@@ -6,7 +6,7 @@ An app that allows users to enter basic information about themselves and then cr
 
 ### App Walk-though
 
-<img src="![](https://i.imgur.com/JL1snRo.gif)" width=200><br>
+<img src="![](https://i.imgur.com/a/SeAj9cX.gif)" width=200><br>
 
 ### Required Features
 
